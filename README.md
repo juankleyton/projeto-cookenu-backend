@@ -1,5 +1,5 @@
 # projeto-cookenu-backend
-Projeto desenvolvido na Semana 18 do bootcamp Full Stack na Labenu
+Projeto desenvolvido no bootcamp Full Stack na Labenu
 # <b>endpoints</b>:</p>
  <li> Signup</li>
  <li> Login</li>
