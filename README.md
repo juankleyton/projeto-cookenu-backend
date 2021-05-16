@@ -11,7 +11,7 @@ Projeto desenvolvido na Semana 18 do bootcamp Full Stack na Labenu
  <li> Deixar de seguir usuário</li>
  <li> Pegar feed de receitas</li>
  
- #<h3> Tecnologias e linguagens utilizadas: </h3>
+ <h3> Tecnologias e linguagens utilizadas: </h3>
  <li> - Node.Js </li>
  <li> - MySQL </li>
  <li> - Typescript </li>
